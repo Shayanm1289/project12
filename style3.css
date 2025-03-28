@@ -1,0 +1,34 @@
+
+body{
+  
+    margin-top: 36px;
+    background-color: bisque;
+    text-align: center;
+
+}
+
+#dogImage {
+        
+    max-width: 430px;
+    height: auto;
+    border-radius: 10px;
+    margin:auto;
+}
+button {
+    padding: 10px 20px;
+    font-size: 19px;
+    cursor: pointer;
+    background-color: #d6c317;
+}
+.btn:hover{
+    transform: scale(1.05);
+    background-color: #754d32;
+}
+
+
+#loading {
+    background-color: rgba(80, 49, 49, 0.856);
+    font-size: 35px;
+    display: none;
+    
+}
